@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2295 Frota de Táxi", "2295
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1245 Botas Perdidas", "1245 Botas Perdidas\1245 Botas Perdidas.csproj", "{1EA74DBB-5277-4043-B76B-9BD8B1A4A873}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2342 OverrFlow", "2342 OverrFlow\2342 OverrFlow.csproj", "{BCEAD0B8-3D60-47F8-BA90-096CF01DFE74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2456 Cartas", "2456 Cartas\2456 Cartas.csproj", "{B1BFC7B5-B2CC-49A0-B9D4-5EAE1EC643CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{1EA74DBB-5277-4043-B76B-9BD8B1A4A873}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EA74DBB-5277-4043-B76B-9BD8B1A4A873}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EA74DBB-5277-4043-B76B-9BD8B1A4A873}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCEAD0B8-3D60-47F8-BA90-096CF01DFE74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCEAD0B8-3D60-47F8-BA90-096CF01DFE74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCEAD0B8-3D60-47F8-BA90-096CF01DFE74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCEAD0B8-3D60-47F8-BA90-096CF01DFE74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1BFC7B5-B2CC-49A0-B9D4-5EAE1EC643CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1BFC7B5-B2CC-49A0-B9D4-5EAE1EC643CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1BFC7B5-B2CC-49A0-B9D4-5EAE1EC643CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1BFC7B5-B2CC-49A0-B9D4-5EAE1EC643CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
