@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2408 Vice-Campeão", "2408 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1547 Adivinha", "1547 Adivinha\1547 Adivinha.csproj", "{5BAF62E1-2BF2-4D5E-9516-4C285B2C8D1E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1089 Loop Musical", "1089 Loop Musical\1089 Loop Musical.csproj", "{5B43C3C7-4D5F-4EA2-9E61-F5ADA4872712}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{5BAF62E1-2BF2-4D5E-9516-4C285B2C8D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BAF62E1-2BF2-4D5E-9516-4C285B2C8D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BAF62E1-2BF2-4D5E-9516-4C285B2C8D1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B43C3C7-4D5F-4EA2-9E61-F5ADA4872712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B43C3C7-4D5F-4EA2-9E61-F5ADA4872712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B43C3C7-4D5F-4EA2-9E61-F5ADA4872712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B43C3C7-4D5F-4EA2-9E61-F5ADA4872712}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
