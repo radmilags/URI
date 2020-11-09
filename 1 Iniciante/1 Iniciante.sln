@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1178 Preenchimento de Vetor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1159 Soma de Pares Consecutivos", "1159 Soma de Pares Consecutivos\1159 Soma de Pares Consecutivos.csproj", "{2CBD24FB-30AC-4AC1-A36D-019E0AF2DBD3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1165 Número Primo", "1165 Número Primo\1165 Número Primo.csproj", "{1C6A7A2E-34DC-4771-ADE8-FCFE7F362692}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{2CBD24FB-30AC-4AC1-A36D-019E0AF2DBD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CBD24FB-30AC-4AC1-A36D-019E0AF2DBD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CBD24FB-30AC-4AC1-A36D-019E0AF2DBD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C6A7A2E-34DC-4771-ADE8-FCFE7F362692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C6A7A2E-34DC-4771-ADE8-FCFE7F362692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C6A7A2E-34DC-4771-ADE8-FCFE7F362692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C6A7A2E-34DC-4771-ADE8-FCFE7F362692}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
