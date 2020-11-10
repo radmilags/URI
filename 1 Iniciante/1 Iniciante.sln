@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1061 Tempo de um evento", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1178 Preenchimento de Vetor III", "1178 Preenchimento de Vetor III\1178 Preenchimento de Vetor III.csproj", "{79E01E47-5D1A-444B-B28F-9FEE09C03486}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1159 Soma de Pares Consecutivos", "1159 Soma de Pares Consecutivos\1159 Soma de Pares Consecutivos.csproj", "{2CBD24FB-30AC-4AC1-A36D-019E0AF2DBD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1159 Soma de Pares Consecutivos", "1159 Soma de Pares Consecutivos\1159 Soma de Pares Consecutivos.csproj", "{2CBD24FB-30AC-4AC1-A36D-019E0AF2DBD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1165 Número Primo", "1165 Número Primo\1165 Número Primo.csproj", "{1C6A7A2E-34DC-4771-ADE8-FCFE7F362692}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1165 Número Primo", "1165 Número Primo\1165 Número Primo.csproj", "{1C6A7A2E-34DC-4771-ADE8-FCFE7F362692}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1160 Crescimento Populacional", "1160 Crescimento Populacional\1160 Crescimento Populacional.csproj", "{4BDF1A06-FD32-41A2-98A7-084434F67C74}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{1C6A7A2E-34DC-4771-ADE8-FCFE7F362692}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C6A7A2E-34DC-4771-ADE8-FCFE7F362692}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C6A7A2E-34DC-4771-ADE8-FCFE7F362692}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BDF1A06-FD32-41A2-98A7-084434F67C74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BDF1A06-FD32-41A2-98A7-084434F67C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BDF1A06-FD32-41A2-98A7-084434F67C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BDF1A06-FD32-41A2-98A7-084434F67C74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
